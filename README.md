@@ -4,7 +4,7 @@
 - 📫 How to reach me: tolga.gumuscu@ozu.edu.tr
 - 💼 My LinkedIn Profile: https://tr.linkedin.com/in/tolgagumuscu
 
-![alt text](https://drive.google.com/file/d/1JY_OL6yZJHLqZhT732kFY0X2qxVysYM7/view?usp=sharing)
+![alt text](https://i.ibb.co/V3cPH4d/Programming-design-concept-Programmer-working-Man-and-2-laptop-screen-with-program-code-Trendy-flat.jpg)
 
 <!---
 tolgagumuscu/tolgagumuscu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
