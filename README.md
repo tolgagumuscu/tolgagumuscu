@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolgagumuscu
 - 👀 I’m interested in artificial Intelligence
-- 🌱 I’m currently studying Introduction to AI and Operating Systems Courses at Ozyegin University
+- 🌱 I’m currently studying Introduction to AI Course at Ozyegin University
 - 📫 How to reach me: tolga.gumuscu@ozu.edu.tr
 - 💼 My LinkedIn Profile: https://tr.linkedin.com/in/tolgagumuscu
 
