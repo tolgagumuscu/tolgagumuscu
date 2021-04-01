@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tolgagumuscu
+>*👋 Hi, I’m @tolgagumuscu
 - 👀 I’m interested in Artificial Intelligence and Autonomous Driving
 - 🌱 I’m currently studying Introduction to AI Course at Ozyegin University
 - 📫 How to reach me: tolga.gumuscu@ozu.edu.tr
