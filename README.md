@@ -4,11 +4,10 @@
 - 📫 How to reach me: tolga.gumuscu@ozu.edu.tr
 - 💼 My LinkedIn Profile: https://tr.linkedin.com/in/tolgagumuscu
 
+| CS103 | CS102 | CS202 |
+|-------|-------|-------|
+| CS201 | CS350 | CS451 |
 
-| CS103  | CS102 |
-|--|--|
-| CS201 | CS202 |
-|CS350  | CS451 |
 
  - [ ] CS103: Computer Programming for Engineers (JAVA)
  - [ ] CS102: Object-Oriented Programming (JAVA)
