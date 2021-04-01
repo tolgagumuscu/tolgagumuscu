@@ -17,6 +17,7 @@
  - [ ] CS350: Operating Systems (LINUX, C)
  - [ ] CS451: Introduction to Artificial Intelligence (PYTHON)
 
+![enter image description here](https://al.nd.edu/assets/380450/1000x562/bacs_code.jpg)
 <!---
 ![alt text](https://i.ibb.co/V3cPH4d/Programming-design-concept-Programmer-working-Man-and-2-laptop-screen-with-program-code-Trendy-flat.jpg)
 tolgagumuscu/tolgagumuscu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
