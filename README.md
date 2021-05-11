@@ -15,6 +15,8 @@
  - [ ] CS202: Database Management Systems (JAVA, SQL)
  - [ ] CS350: Operating Systems (LINUX, C)
  - [ ] CS451: Introduction to Artificial Intelligence (PYTHON)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagumuscu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![enter image description here](https://al.nd.edu/assets/380450/1200x281/bacs_code.jpg)
 <!---
