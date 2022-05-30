@@ -17,6 +17,8 @@
  - [ ] CS451/551: Introduction to Artificial Intelligence (PYTHON)
  - [ ] CS240: Computer Architecture
  - [ ] CS 454/554: Introduction to Machine Learning and Artificial Neural Networks
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagumuscu)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagumuscu)](https://github.com/anuraghazra/github-readme-stats)
 
