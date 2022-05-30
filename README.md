@@ -18,7 +18,7 @@
  - [ ] CS240: Computer Architecture
  - [ ] CS 454/554: Introduction to Machine Learning and Artificial Neural Networks
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagumuscu)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgagumuscu&show_icons=true&theme=radical)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagumuscu)](https://github.com/anuraghazra/github-readme-stats)
 
