@@ -4,9 +4,9 @@
 - 📫 How to reach me: tolga.gumuscu@ozu.edu.tr
 - 💼 My LinkedIn Profile: https://tr.linkedin.com/in/tolgagumuscu
 
-| CS103 | CS102 | CS202 |
-|-------|-------|-------|
-| CS201 | CS350 | CS451 |
+| CS103 | CS102 | CS202 | CS240 |
+|-------|-------|-------|-------|
+| CS201 | CS350 | CS451 | CS454 |
 
 
  - [ ] CS103: Computer Programming for Engineers (JAVA)
@@ -14,7 +14,9 @@
  - [ ] CS201: Data Structures and Algorithms (C++)
  - [ ] CS202: Database Management Systems (JAVA, SQL)
  - [ ] CS350: Operating Systems (LINUX, C)
- - [ ] CS451: Introduction to Artificial Intelligence (PYTHON)
+ - [ ] CS451/551: Introduction to Artificial Intelligence (PYTHON)
+ - [ ] CS240: Computer Architecture
+ - [ ] CS 454/554: Introduction to Machine Learning and Artificial Neural Networks
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgagumuscu)](https://github.com/anuraghazra/github-readme-stats)
 
